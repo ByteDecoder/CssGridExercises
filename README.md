@@ -5,6 +5,7 @@ Learn CSS Grid by Building 5 Layouts
 - Google fonts
 - Font awesome 4
 - CSS Grid
+- Flex
 
 ## BEM Naming convention
 
